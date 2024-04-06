@@ -1,1 +1,0 @@
-# Generic End to End Machine Learning Implementation project
